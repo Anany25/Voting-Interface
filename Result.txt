@@ -1,0 +1,31 @@
+RESULT:
+
+Party A Votes : 1
+Party B Votes : 1
+Party C Votes : 2
+None of the above : 1
+
+No Party Wins by Majority
+
+REPORT:
+
+Total Votes: 5
+Male Votes: 4
+Female Votes: 1
+
+Male Votes to A: 1
+Male Votes to B: 0
+Male Votes to C: 2
+Male Votes to None: 1
+
+Female Votes to A: 0
+Female Votes to B: 1
+Female Votes to C: 0
+Female Votes to None: 0
+
+New Voters: 0		Majority vote to: None
+Age Group 19-30: 2	Majority vote to: B
+Age Group 31-50: 3	Majority vote to: A
+Age Group 51-70: 0	Majority vote to: None
+Age Group 71-100: 0	Majority vote to: None
+Aged Above 100: 0	Majority vote to: None
